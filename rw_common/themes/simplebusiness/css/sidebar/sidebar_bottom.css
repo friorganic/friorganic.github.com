@@ -1,0 +1,17 @@
+#sidebarContainer {
+ 	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+}
+
+#sidebarContainer #sidebar {
+	padding: 5px;
+}
+
+#sidebarContainer .sideHeader {
+	padding: 15px 5px 0;
+	font-weight: bold;
+	font-size: 1.4em;
+	color: #1f5369;
+}
